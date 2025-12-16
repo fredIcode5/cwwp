@@ -1,0 +1,10 @@
+Facility complex #AA400033V;4889550
+Facility complex #AA400066H;6152247
+Facility complex #AD400063M;6245973
+Facility complex #AL400026K;15552533
+Facility complex #BQ400037J;6439524
+Facility complex #BT400004O;6355372
+Facility complex #BU400072D;8914758
+Facility complex #BV400028N;6483881
+Facility complex #CO400022N;8404360
+Facility complex #CQ400024W;1621794
